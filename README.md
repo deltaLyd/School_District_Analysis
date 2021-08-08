@@ -7,21 +7,38 @@ The school board wants to be able to uphold the state-testing standards, so they
 
 I then reclaculate the passing percentages for students at Thomas High School without these erroneous scores, then re-run a prior analysis on the school district's database to understand how the elimination of this group changes the overall analysis.
 
-## School District  Analysis Results
+## School District Analysis Results
 
-**Election Results**
-
-
-
-
-**Largest County Turnout** 
+**District Summary DataFrame**
 
 
 
-**Election Results by Candidate**
+
+**School Summary DataFrame** 
 
 
 
-## Recommendations to Colorado Board of Elections
-### Adapting Code for Use in Auditing all State Elections
+**Top 5 Performing Schools**
+
+
+
+**Bottom 5 Performing Schools**
+
+**Average Math Score by Grade Level**
+
+
+**Average Reading Score by Grade Level**
+
+
+**Scores by School Spending Per Student**
+
+
+**Scores by School Size**
+
+
+**Scores by School Type**
+
+
+## Summary to School Board
+
 
