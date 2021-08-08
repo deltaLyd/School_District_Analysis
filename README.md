@@ -10,8 +10,9 @@ I then reclaculate the passing percentages for students at Thomas High School wi
 ## School District Analysis Results
 
 **District Summary DataFrame**
+*Basing this on the assumption that the scores removed for 9th graders at Thomas High School were artificially high.
 
-
+Reducing 
 
 
 **School Summary DataFrame** 
